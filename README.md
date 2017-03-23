@@ -20,7 +20,7 @@ Simple RFID devices manager with Arduino and MFRC522
  
 ### Schematic
 <p align="center">
-  <img src="/docs/schematics_bb.jpg"/>
+  <img src="/docs/schematic_bb.jpg"/>
 </p>
 
 ### Notes
